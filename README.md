@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijit Mondal</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [Relaxo(A chrome extension)](https://github.com/srijit2002/Relaxo)
+- 🔭 I’m currently working on [Programming-contest-CLI(A node js based cli tool)](https://github.com/srijit2002/programming-contest-cli)
 
 - 🌱 I’m currently learning **Next.js and Python**
 
