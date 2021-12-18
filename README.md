@@ -10,6 +10,7 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **srijitm906@gmail.com**
+- ![](https://komarev.com/ghpvc/?username=srijit2002&style=plastic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
