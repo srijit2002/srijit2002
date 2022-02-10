@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijit Mondal</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [Programming-contest-CLI(A node js based cli tool)](https://github.com/srijit2002/programming-contest-cli)
+- 🔭 I’m currently working on [whatdrive(an app to upload files from your whatsapp to google drive)](https://github.com/srijit2002/whatdrive)
 
 - 🌱 I’m currently learning **Next.js and Python**
 
