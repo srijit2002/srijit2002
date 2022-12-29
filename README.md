@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Codeforces Problem Tag Hider](https://github.com/srijit2002/codeforces-problem-tag-hider)
 
 - 🌱 I’m currently doing competetive coding
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/enola.svg)](https://codeforces.com/profile/enola)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/onlyerror.svg)](https://codeforces.com/profile/onlyerror)
 
 - 👨‍💻 All of my projects are available at [https://srijit2002.github.io/portfoliosite.github.io/](https://srijit2002.github.io/portfoliosite.github.io/)
 
