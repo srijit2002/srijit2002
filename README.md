@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijit2002&" alt="srijit2002" /></p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/onlyerror?theme=nord&ext=heatmap)](https://leetcode.com/onlyerror)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/onlyerror?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/onlyerror)
