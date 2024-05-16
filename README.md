@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijit Mondal</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [Nit - A version control system built in NodeJs](https://github.com/srijit2002/Nit)
+- 🔭 I’m currently working on [Bittorrent-Client](https://github.com/srijit2002/bittorrent-client)
 
 - 🌱 I’m currently doing competetive coding
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/onlyerror.svg)](https://codeforces.com/profile/onlyerror)
